@@ -23,28 +23,3 @@ product category	Category of the product
 order date	Date of the order
 
 ⚠️ Column order matters — make sure the output follows the structure above.
-
-📥 Input Tables
-customers
-Column	Data Type
-customer_id	Integer
-first_name	String
-last_name	String
-email	String
-orders
-Column	Data Type
-order_id	Integer
-customer_id	Integer
-product_id	Integer
-order_date	Date
-products
-Column	Data Type
-product_id	Integer
-product_name	String
-category	String
-📤 Expected Output
-order id	customer name	customer email	product name	product category	order date
-1001	John Doe	john.doe@email.com
-	Product A	Category1	2023-01-10 00:00:00
-1002	Jane Smith	jane.smith@email.com
-	Product B	Category2	2023-01-11 00:00:00
