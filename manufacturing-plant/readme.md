@@ -1,4 +1,4 @@
-## Problem 06: Manufacturing Plant
+## 🏭 Problem 06: Manufacturing Plant
 
 You are given two tables, `manufacture_product` and `manufacture_sales`, related to a manufacturing company.
 
