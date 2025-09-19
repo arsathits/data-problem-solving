@@ -1,4 +1,4 @@
-# 🛒 Consumer Goods Discount Confusion
+# 🛒 Problem 07: Consumer Goods Discount Confusion
 
 ## Problem Statement
 You are given a sales dataset from a Consumer Goods company in the form of a DataFrame.  
