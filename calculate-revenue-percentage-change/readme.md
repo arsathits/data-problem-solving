@@ -10,9 +10,7 @@ Your goal is to calculate the **month-over-month percentage change in revenue**.
 1. Calculate **total monthly revenue** by summing the `value` of all transactions per month.
 2. Compute the **percentage change** compared to the previous month using:
 
-\[
-\text{Percentage Change} = \frac{\text{This Month's Revenue} - \text{Last Month's Revenue}}{\text{Last Month's Revenue}} \times 100
-\]
+Percentage Change = (This Month's Revenue - Last Month's Revenue) / Last Month's Revenue × 100
 
 3. Round the percentage change to **2 decimal places**.
 4. For the **first month**, since there is no previous month, the value should be `NULL` (or `N/A`).
