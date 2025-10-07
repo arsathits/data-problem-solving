@@ -1,4 +1,4 @@
-# 🛒 Problem 21: Analyze Purchasing Behavior
+# 🛒 Problem 22: Analyze Purchasing Behavior
 
 ## 📝 Problem Statement
 You are analyzing user purchases for the first quarter of the year.  
